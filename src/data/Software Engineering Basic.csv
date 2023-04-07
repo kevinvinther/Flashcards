@@ -1,0 +1,4 @@
+guid,front,back,tags
+zQovk_!rX=,"What is the type of error, when the response code is `4xx` in an API?",Client error. The client application behaved erroneously.,"CS::API, CS::software-engineering"
+xK&pf_ZVfI,"What is the type of error, when the response code is `5xx` in an API?",Server error. The API behaved erroneously,"CS::API, CS::software-engineering"
+GU0i#M@-]5,"What is the type of response, when the response code is `2xx` in an API?","Success, client and API worked","CS::API, CS::software-engineering"

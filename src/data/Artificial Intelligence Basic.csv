@@ -1,0 +1,24 @@
+guid,front,back,tags
+,Can programs solve any solvable problem described in logical notation?,"Yes, in principle, programs could solve any solvable problem described in logical notation.",CS::AI::Chapter1
+,What is a rational agent in AI?,"A rational agent is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.",CS::AI::Chapter1
+,What is limited rationality?,Limited rationality is the ability to act appropriately when there is not enough time to do all the computations one might like.,CS::AI::Chapter1
+,What is the value alignment problem?,The value alignment problem refers to the difficulty of aligning the values or objectives put into an AI system with those of humans.,CS::AI::Chapter1
+,Who first formulated a precise set of laws governing the rational part of the mind?,Aristotle,CS::AI::Chapter1
+,Who is known for discussing the distinction between mind and matter?,René Descartes,CS::AI::Chapter1
+,What is dualism?,"A philosophy that says there is a part of the human mind (or soul or spirit) that is outside of nature, exempt from physical laws.",CS::AI::Chapter1
+,What is materialism?,A philosophy that says that the brain’s oepration according the the laws of physics consitutes the mind. ,CS::AI::Chapter1
+,Who proposed the principle of induction?,David Hume in A Treatise of Human Nature (1739),CS::AI::Chapter1
+,Who developed the doctrine of logical positivism?,"The famous Vienna Circle, a group of philosophers and mathematicians meeting in Vienna in the 1920s and 30s, developed the doctrine of logical positivism.",CS::AI::Chapter1
+,How does logical positivism combine rationalism and empiricism?,"Logical positivism holds that all knowledge can be characterized by logical theories connected, ultimately, to observation sentences that correspond to sensory inputs; thus, it combines rationalism and empiricism.",CS::AI::Chapter1
+,What is an agent?,Anything that can perceive its environment through sensors and act upon that environment through actuators.,CS::AI::Chapter2::1
+,What is a percept?,A percept refers to the content an agent’s sensors are perceiving.,CS::AI::Chapter2::1
+,What is an agent function?,An agent function is a mathematical function that maps any given percept sequence to an action.,CS::AI::Chapter2::1
+,What is a percept sequence?,An agent’s percept sequence is the complete history of everything the agent has ever perceived. ,CS::AI::Chapter2::1
+,What is the difference between a sensor and an actuator?,"A sensor is a device that perceives or captures information from the environment, while an actuator is a device that takes action in the environment.",CS::AI::Chapter2::1
+,Can an agent’s choice of action depend on anything it hasn’t perceived?,"No, it can only depend on it’s built-in knowledge and the entire percept sequence observed to date.",CS::AI::Chapter2::1
+,What is the couling between agents and environments?,The coupling between agents and environments consists of sensors that perceive the environment and actuators that act upon that environment.,CS::AI::Chapter2::1
+,What do agents use to interact with environments?,Sensors and actuators.,CS::AI::Chapter2::1
+,What is the difference between the agent function and the agent program?,"The function is an abstract mathematical description, while the program is a concrete implementation running within some physical system.",CS::AI::Chapter2::1
+,What does it mean to do the right thing according to consequentialism in the context of AI?,"Consequentialism evaluates an agent’s behavior by its consequences. If the sequence of actions an agent generates causes the environment to go through a sequence of desirable states, then the agent has performed well.",CS::AI::Chapter2::2
+,What is the difference between rationality and omniscience?,"The difference between rationality and omniscience is that a rational agent selects actions based on the evidence provided by its percept sequence and built-in knowledge to maximize its performance measure, while an omniscient agent knows the actual outcome of its actions and can act accordingly. However, omniscience is impossible in reality.",CS::AI::Chapter2::2
+,What is rationality?,The concept of maximizing expected performance rather than achieving perfection.,CS::AI::Chapter2::2

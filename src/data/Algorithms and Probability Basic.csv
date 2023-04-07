@@ -1,0 +1,5 @@
+guid,front,back,tags
+zcE&m1=A/k,What is an experiment?,A procedure that yields one of a given set of possible outcomes,"CS::algorithms-and-probability, CS::math, CS::probability"
+bV7iBCYY.&,What is the sample space of an experiment?,The set of possible outcomes,"CS::algorithms-and-probability, CS::math, CS::probability"
+oy|L@N}1iB,What is an event in an experiment?,A subset of the sample space,"CS::algorithms-and-probability, CS::math, CS::probability"
+j_D<FPF_1k,What is the pigeonhole principle?,"The pigeonhole principle is a principle which states that if \(k\) is a positive integer, and \(k+1\) or more objects are placed into \(k\) boxes, then there is at least one box containing two or more of the objects.","CS::algorithms-and-probability, CS::math, CS::combinatorics"

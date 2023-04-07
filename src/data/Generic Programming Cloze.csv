@@ -1,0 +1,9 @@
+guid,text,extra,tags
+,"There are 5 types of lifetime (simplified):
+<ul>
+<li>{{c1::Automatic}}: from definition to end-of-scope</li>
+<li>{{c2::Static}}: from program start to end</li>
+<li>{{c3::Dynamic}}: from <i>new</i> to <i>delete</i></li>
+<li>{{c4::Thread-local}}: from thread start to end</li>
+<li>{{c5::Temporary}}: from materilization to end of largest enclosing expression</li>
+</ul>",,"CS::cpp, CS::generic-programming::values-objects"

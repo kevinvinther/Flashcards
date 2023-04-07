@@ -1,0 +1,6 @@
+guid,front,back,tags
+cC#]I>;r%,What is the time complexity for accessing an element at an index in an array?,O(1). Constant time.,"CS::data-structures, CS::arrays"
+c%WsZMA0!c,What is the time complexity for deleting an element at an index in an array?,O(n). It has to traverse the list when shifting the elements back. This also only works on dynamic arrays.,"CS::data-structures, CS::arrays"
+xI&NF/khzM,What is the time complexity of updating an element at an index in an array?,O(1). Constant time.,"CS::data-structures, CS::arrays"
+v?~/&p?>Z$,What is the time complexity of traversing an array?,O(n). ,"CS::data-structures, CS::arrays"
+8eFo)L&~J,What is the time complexity for inserting in a dynamic array?,O(n). It has to traverse the array when moving the objects.,"CS::data-structures, CS::arrays"

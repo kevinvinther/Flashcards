@@ -1,0 +1,23 @@
+guid,text,extra,tags
+hQCXo<~&Wi,"Other than the main challenge: to elect a leader among a group of nodes, <i>leader election</i> poses a few more challenges:<br/> <ul> 
+<li>All nodes must {{c1::agree on the leader identity}}</li>
+<li>Nodes may {{c2::fail at any time, including the leader}}</li>
+<li>No machine has {{c3::a global consistent view: information is scattered across many machines and constantly updated.}}</li>
+</ul>",,"CS::Bsc-project, CS::distributed-systems, CS::leader-election"
+r^>7a:QT9v,"The messages in the Bully Algorithm for Leader Election are: 
+<ul>
+<li>{{c1::ELECTION: Sent to announce election}}</li>
+<li>{{c2::ALIVE: Response to ELECTION message}}</li>
+<li>{{c3::VICTORY: Sent by winner of the election to announce victory.}}</li>
+</ul>",,"CS::Bsc-project, CS::distributed-systems, CS::leader-election"
+o}[O$gu|I0,"The messages in the Ring Algorithm for Leader Election are:  
+<ul> 
+<li>{{c1::PROBE (id): Sent to search for the leader}}</li> 
+<li>{{c2::SELECTED (id): Result}}</li> 
+</ul>",,"CS::Bsc-project, CS::distributed-systems, CS::leader-election"
+BfwEj``=<!,"A Synchronous System is a system that satisfies the following properties:
+<ul>
+<li>There is a known upper bound on the {{c1::message communication delay}}</li>
+<li>There is a known bounded drift rate for the {{c2::local clock of each processor with respect ro real-time}}. The drift rate between {{c2::two clocks}} is defined as the rate at which their values diverge.</li>
+<li>There is a known upper bound on the time taken by {{c3::a process to execute a logical step in the execution}}</li>
+</ul>",,"CS::Bsc-project, CS::distributed-systems"
